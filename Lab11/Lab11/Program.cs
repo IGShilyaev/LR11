@@ -304,7 +304,7 @@ namespace Lab11
 
             #endregion
 
-
+            Console.Readline();
 
         }
 
